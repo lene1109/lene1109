@@ -2,12 +2,12 @@
 
 
 
-- 🔭 I’m currently working como Auxiliar em Informática, porém  estou desenvolvendo um aplicativo de Ordem de Serviço pelo Kodular + Mysql + Php
-- 🌱 I’m currently learning  JavaScript, Node,  Mysql, Php, Java, Back End
-- 👯 I’m looking to collaborate on  projetos que utilize a plataforma kodular + Mysql +Php
-- 🤔 I’m looking for help with  Android Studio
-- 💬 Ask me about  Kodular
-- 📫 How to reach me: ...
+- 🔭 Estou trabalhando como Auxiliar em Informática, porém  estou desenvolvendo um aplicativo de Ordem de Serviço pelo Kodular + Mysql + Php
+- 🌱Atualmente estou aprendendo JavaScript, Node,  Mysql, Php, Java, Back End
+- 👯Pretendo colaborar em projetos que utilize a plataforma kodular + Mysql +Php
+- 🤔 Estou procurando ajuda com  Android Studio
+- 💬 Pergute-me sobre  Kodular
+- 📫 Como chegar até mim: elcilenematosaragao@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
