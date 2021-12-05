@@ -7,7 +7,6 @@ Olá! Eu sou a Elcilene Aragão 👋
 - 👯Pretendo colaborar em projetos que utilize a plataforma kodular + Mysql +Php
 - 🤔 Estou procurando ajuda com  Android Studio
 - 💬 Pergute-me sobre  Kodular
-- 📫 Como chegar até mim: elcilenematosaragao@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div align="center">
