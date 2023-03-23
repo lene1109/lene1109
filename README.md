@@ -2,7 +2,7 @@ Olá! Eu sou a Elcilene Aragão 👋
 
 
 
-- 🔭 Estou trabalhando como Auxiliar em Informática, porém  estou desenvolvendo um aplicativo de Ordem de Serviço pelo Kodular + Mysql + Php
+- 🔭 Trabalhei na empresa Yamaservice como Auxiliar em Informática, porém  estava desenvolvendo um aplicativo de Ordem de Serviço pelo Kodular + Mysql + Php
 - 🌱Atualmente estou aprendendo JavaScript, Node,  Mysql, Php, Java, Back End
 - 👯Pretendo colaborar em projetos que utilize a plataforma kodular + Mysql +Php
 - 🤔 Estou procurando ajuda com  Android Studio
