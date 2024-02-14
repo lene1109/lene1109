@@ -1,29 +1,33 @@
-Olá! Eu sou a Elcilene Aragão 👋
+# 👋 Olá, Mundo!
+
+## Sobre Mim
+
+Sou um(a) desenvolvedor(a) apaixonado(a) por criar soluções incríveis através da programação. Fascinado(a) por tecnologia desde criança, estou sempre explorando novas ferramentas e linguagens para expandir meus horizontes.
+
+## Habilidades 🚀
+
+- **Linguagens de Programação**: JavaScript, Python, TypeScript, HTML, CSS
+- **Frameworks e Bibliotecas**: React, Node.js, Express.js, Flask, jQuery
+- **Banco de Dados**: MongoDB, MySQL, PostgreSQL
+- **Ferramentas de Controle de Versão**: Git, GitHub, GitLab
+- **Outras Habilidades**: UI/UX Design, Testes Automatizados, DevOps
+
+## Projetos em Destaque 💡
+
+- **[Nome do Projeto 1](link_para_o_projeto_1)**: Descrição curta e envolvente sobre o projeto.
+- **[Nome do Projeto 2](link_para_o_projeto_2)**: Outra descrição interessante sobre outro projeto incrível.
+
+## Onde me Encontrar 🌍
+
+- **Blog**: [Nome do Blog](link_para_o_blog) - Compartilho minhas experiências e aprendizados.
+- **Twitter**: [@seu_username](link_para_o_perfil_do_twitter) - Tweets sobre desenvolvimento, tecnologia e curiosidades.
+- **LinkedIn**: [Seu Perfil LinkedIn](link_para_seu_perfil) - Vamos nos conectar!
+
+## Vamos Colaborar! 🤝
+
+Estou sempre em busca de novas oportunidades de colaboração em projetos interessantes. Se você tem uma ideia ou precisa de ajuda em algum projeto, não hesite em entrar em contato comigo!
 
 
-
-- 🔭 Trabalhei na empresa Yamaservice como Auxiliar em Informática, porém  estava desenvolvendo um aplicativo de Ordem de Serviço pelo Kodular + Mysql + Php
-- 🌱Atualmente estou aprendendo JavaScript, Node,  Mysql, Php, Java, Back End
-- 👯Pretendo colaborar em projetos que utilize a plataforma kodular + Mysql +Php
-- 🤔 Estou procurando ajuda com  Android Studio
-- 💬 Pergute-me sobre  Kodular
-- ⚡ Fun fact: ...
-<div align="center">
-  <a href="https://github.com/lene1109">
-  <img height="213em" src="https://github-readme-stats.vercel.app/api?username=lene1109&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lene1109&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
- 
-</div>
   
   
 ##
