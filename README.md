@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou  professora e desenvolvedor apaixonado por criar soluções incríveis através da programação. Fascinado por tecnologia, estou sempre explorando novas ferramentas e linguagens para expandir meus horizontes.
+Sou  professora e desenvolvedora apaixonada por criar soluções incríveis através da programação. Fascinado por tecnologia, estou sempre explorando novas ferramentas e linguagens para expandir meus horizontes.
 
 ## Habilidades 🚀
 
