@@ -2,15 +2,15 @@
 
 ## Sobre Mim
 
-Sou um(a) desenvolvedor(a) apaixonado(a) por criar soluções incríveis através da programação. Fascinado(a) por tecnologia desde criança, estou sempre explorando novas ferramentas e linguagens para expandir meus horizontes.
+Sou uma professora e desenvolvedor apaixonado por criar soluções incríveis através da programação. Fascinado por tecnologia, estou sempre explorando novas ferramentas e linguagens para expandir meus horizontes.
 
 ## Habilidades 🚀
 
-- **Linguagens de Programação**: JavaScript, Python, TypeScript, HTML, CSS
-- **Frameworks e Bibliotecas**: React, Node.js, Express.js, Flask, jQuery
-- **Banco de Dados**: MongoDB, MySQL, PostgreSQL
-- **Ferramentas de Controle de Versão**: Git, GitHub, GitLab
-- **Outras Habilidades**: UI/UX Design, Testes Automatizados, DevOps
+- **Linguagens de Programação**: JavaScript, Python, Php
+- **Frameworks e Bibliotecas**: React, Node.js
+- **Banco de Dados**: MongoDB, MySQL
+- **Ferramentas de Controle de Versão**: Git, GitHub
+
 
 ## Projetos em Destaque 💡
 
@@ -19,9 +19,8 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por criar soluções incríveis atravé
 
 ## Onde me Encontrar 🌍
 
-- **Blog**: [Nome do Blog](link_para_o_blog) - Compartilho minhas experiências e aprendizados.
-- **Twitter**: [@seu_username](link_para_o_perfil_do_twitter) - Tweets sobre desenvolvimento, tecnologia e curiosidades.
-- **LinkedIn**: [Seu Perfil LinkedIn](link_para_seu_perfil) - Vamos nos conectar!
+- **Instagram**: (https://instagram.com/elcilene_aragao) - Compartilho minhas experiências e aprendizados.
+- **LinkedIn**: [Seu Perfil LinkedIn]([link_para_seu_perfil](https://www.linkedin.com/in/elcilene-matos-de-aragao-549389200) - Vamos nos conectar!
 
 ## Vamos Colaborar! 🤝
 
