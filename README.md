@@ -14,8 +14,8 @@ Sou  professora de Informática e desenvolvedora apaixonada por criar soluções
 
 ## Projetos em Destaque 💡
 
-- **[APLICATIVOS MÓVEIS PARA MONITORAMENTO E EDUCAÇÃO AMBIENTAL NA ZONA COSTEIRA
-PARAENSE.](link_para_o_projeto_1)**: Desenvolver um aplicativo móvel para coletar dados georreferenciados da mastofauna aquática na zona costeira paraense.
+- **[Aplicativo Móveis para Monitoramento e Educação Ambiental na Zona Costeira
+Paraense.](link_para_o_projeto_1)**: Desenvolver um aplicativo móvel para coletar dados georreferenciados da mastofauna aquática na zona costeira paraense.
 - **[Desenvolvimento do Aplicativo MathPlay: Uma ferramenta de auxílio no Ensino-
 aprendizagem de Matemática no 6º ano](link_para_o_projeto_2)**: A pesquisa investigou o uso do aplicativo MathPlay como recurso auxiliar no
 ensino de matemática para estudantes do ensino fundamental II.
