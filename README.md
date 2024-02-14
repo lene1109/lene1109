@@ -26,9 +26,9 @@ Sou  professora e desenvolvedora apaixonada por criar soluções incríveis atra
   <a href = "mailto:elcilenematosaragao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elcilene-matos-de-aragao-549389200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  
- 
+
 </div>
+
 ## Vamos Colaborar! 🤝
 
 Estou sempre em busca de novas oportunidades de colaboração em projetos interessantes. Se você tem uma ideia ou precisa de ajuda em algum projeto, não hesite em entrar em contato comigo!
