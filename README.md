@@ -14,8 +14,11 @@ Sou  professora de Informática e desenvolvedora apaixonada por criar soluções
 
 ## Projetos em Destaque 💡
 
-- **[Nome do Projeto 1](link_para_o_projeto_1)**: Descrição curta e envolvente sobre o projeto.
-- **[Nome do Projeto 2](link_para_o_projeto_2)**: Outra descrição interessante sobre outro projeto incrível.
+- **[APLICATIVOS MÓVEIS PARA MONITORAMENTO E EDUCAÇÃO AMBIENTAL NA ZONA COSTEIRA
+PARAENSE.](link_para_o_projeto_1)**: Desenvolver um aplicativo móvel para coletar dados georreferenciados da mastofauna aquática na zona costeira paraense.
+- **[Desenvolvimento do Aplicativo MathPlay: Uma ferramenta de auxílio no Ensino-
+aprendizagem de Matemática no 6º ano](link_para_o_projeto_2)**: A pesquisa investigou o uso do aplicativo MathPlay como recurso auxiliar no
+ensino de matemática para estudantes do ensino fundamental II.
 
 ## Onde me Encontrar 🌍
 
