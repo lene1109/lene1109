@@ -19,19 +19,6 @@ Sou  professora e desenvolvedora apaixonada por criar soluções incríveis atra
 
 ## Onde me Encontrar 🌍
 
-- **Instagram**: (https://instagram.com/elcilene_aragao) - Compartilho minhas experiências e aprendizados.
-- **LinkedIn**: [Seu Perfil LinkedIn]([link_para_seu_perfil](https://www.linkedin.com/in/elcilene-matos-de-aragao-549389200) - Vamos nos conectar!
-
-## Vamos Colaborar! 🤝
-
-Estou sempre em busca de novas oportunidades de colaboração em projetos interessantes. Se você tem uma ideia ou precisa de ajuda em algum projeto, não hesite em entrar em contato comigo!
-
-
-  
-  
-##
-  
-  
 <div> 
   <a href="https:https://www.youtube.com/channel/UCRuptyE0XhiIvYWQoayjMZg/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/elcilene_aragao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -42,3 +29,14 @@ Estou sempre em busca de novas oportunidades de colaboração em projetos intere
   
  
 </div>
+## Vamos Colaborar! 🤝
+
+Estou sempre em busca de novas oportunidades de colaboração em projetos interessantes. Se você tem uma ideia ou precisa de ajuda em algum projeto, não hesite em entrar em contato comigo!
+
+
+  
+  
+##
+  
+  
+
