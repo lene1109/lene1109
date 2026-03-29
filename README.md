@@ -1,8 +1,7 @@
 # 👋 Olá, Mundo!
 
 ## Sobre Mim
-
-Sou  professora de Informática e desenvolvedora apaixonada por criar soluções incríveis através da programação. Fascinado por tecnologia, estou sempre explorando novas ferramentas e linguagens para expandir meus horizontes.
+Atualmente, trabalho como professora responsável em uma escola do campo. Sou fascinada por tecnologia e tenho grande interesse em aprender cada vez mais sobre essa área. Busco constantemente novos conhecimentos que possam contribuir tanto para o meu desenvolvimento profissional quanto para melhorar a aprendizagem dos meus alunos.
 
 ## Habilidades 🚀
 
