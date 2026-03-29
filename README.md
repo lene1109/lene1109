@@ -5,10 +5,9 @@ Atualmente, trabalho como professora responsável em uma escola do campo. Sou fa
 
 ## Habilidades 🚀
 
-- **Linguagens de Programação**: JavaScript, Python, Php
-- **Frameworks e Bibliotecas**: React, Node.js
-- **Banco de Dados**: MongoDB, MySQL
-- **Ferramentas de Controle de Versão**: Git, GitHub
+- **Linguagens de Programação**:  Php (pouco entendimento)
+- **Banco de Dados**: MySQL
+
 
 
 ## Projetos em Destaque 💡
